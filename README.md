@@ -4,8 +4,8 @@ Source code repository for realtime app, using ReactJs, Golang and RethinkDB.
 
 # Pre-Requisites #
 
-1.Docker installed
-2.Node installed.
+1. Docker installed
+2. Node installed.
 
 # How do I get set up? #
 
